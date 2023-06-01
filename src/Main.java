@@ -23,5 +23,6 @@ public class Main {
         // Definicão do comportamento
         rainha.falar();
         rainha.comer();
+
     }
 }
