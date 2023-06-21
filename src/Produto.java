@@ -19,4 +19,5 @@ public class Produto {
         this.modelo = modelo;
         this.preco = preco;
     }
+
 }
